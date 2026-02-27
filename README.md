@@ -1,2 +1,11 @@
-# chestertons-fence-checker
-Check if you understand why something exists before changing it - https://keeprule.com
+# chestertons fence checker
+
+Check if you understand why something exists before changing it
+
+## Resources
+
+- [KeepRule](https://keeprule.com)
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+
+MIT - [KeepRule](https://keeprule.com)
